@@ -2,8 +2,8 @@
 
 /* filtered results information : last - first / total number of result */
 .count {
-	border-top:1px solid #E5E5E5;
-	border-bottom:1px solid #E5E5E5;
+	border-top:1px solid #ffc61c;
+	border-bottom:1px solid #ffc61c;
 }
 
 /* loader progress bar */
