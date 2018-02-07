@@ -4,6 +4,7 @@
 .count {
 	border-top:1px solid #ffc61c;
 	border-bottom:1px solid #ffc61c;
+	display:none !important;
 }
 
 /* loader progress bar */
